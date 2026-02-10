@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "somunia - Emerge  (Music Video)",
+  "base_artist": "somunia",
+  "createdAt": "2026-02-10T05:49:56.623557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "somunia - Connected World  (Music Video)",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/01_somunia_-_Connected_World_(Music_Video)_somunia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "somunia - Emerge  (Music Video)",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/02_somunia_-_Emerge_(Music_Video)_somunia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "somunia - 放課後のダンスフロア  (Music Video)",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/03_somunia_-_放課後のダンスフロア_(Music_Video)_somunia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "秘密のメリーゴーランド (feat. somunia)",
+      "artist": "Mikazuki BIGWAVE",
+      "has_synced": true,
+      "path": "select/04_秘密のメリーゴーランド_(feat._somunia)_Mikazuki_BIGWAVE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aquarium Night (feat. somunia)",
+      "artist": "Mikazuki BIGWAVE",
+      "has_synced": true,
+      "path": "select/05_Aquarium_Night_(feat._somunia)_Mikazuki_BIGWAVE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "AM 9:30 (feat. somunia)",
+      "artist": "Toccoyaki",
+      "has_synced": true,
+      "path": "select/06_AM_9_30_(feat._somunia)_Toccoyaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Connected World - rework (feat. somunia)",
+      "artist": "gaburyu",
+      "has_synced": true,
+      "path": "select/07_Connected_World_-_rework_(feat._somunia)_gaburyu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Perfect Circle (feat. somunia)",
+      "artist": "Toccoyaki",
+      "has_synced": true,
+      "path": "select/08_Perfect_Circle_(feat._somunia)_Toccoyaki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "twinkle night feat. somunia",
+      "artist": "nyankobrq & yaca",
+      "has_synced": true,
+      "path": "select/09_twinkle_night_feat._somunia_nyankobrq_&_yaca.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "summer leap rework (feat. somunia)",
+      "artist": "gaburyu",
+      "has_synced": true,
+      "path": "select/10_summer_leap_rework_(feat._somunia)_gaburyu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "twinkle night (feat. somunia)",
+      "artist": "nyankobrq",
+      "has_synced": true,
+      "path": "select/11_twinkle_night_(feat._somunia)_nyankobrq.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "simple tide (feat. somunia)",
+      "artist": "nyankobrq",
+      "has_synced": true,
+      "path": "select/12_simple_tide_(feat._somunia)_nyankobrq.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Natsu Wo Machiwabite (feat. somunia)",
+      "artist": "The LASTTRAK",
+      "has_synced": true,
+      "path": "select/13_Natsu_Wo_Machiwabite_(feat._somunia)_The_LASTTRAK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "秘密のメリーゴーランド (feat. somunia)",
+      "artist": "mikazuki bigwave somunia",
+      "has_synced": true,
+      "path": "select/14_秘密のメリーゴーランド_(feat._somunia)_mikazuki_bigwave_somunia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wish (feat. somunia)",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/15_Wish_(feat._somunia)_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aiobahn - wish (ft. somunia) [Official Audio]",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/16_Aiobahn_-_wish_(ft._somunia)_[Official_Audio]_somunia.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "twinkle night (feat. somunia)",
+      "artist": "nyankobrq/yaca/somunia",
+      "has_synced": true,
+      "path": "select/17_twinkle_night_(feat._somunia)_nyankobrq_yaca_somunia.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "twinkle night feat.somunia - nyankobrq & yaca  (Official Music Video)",
+      "artist": "nyankobrq",
+      "has_synced": false,
+      "path": "select/18_twinkle_night_feat.somunia_-_nyankobrq_&_yaca_(Official_Music_Video)_nyankobrq.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "somunia - last night (virtual cat remix)",
+      "artist": "somunia",
+      "has_synced": true,
+      "path": "select/19_somunia_-_last_night_(virtual_cat_remix)_somunia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Emerge",
+      "artist": "somunia",
+      "has_synced": false,
+      "path": "select/pl_01_Emerge_somunia.txt"
+    }
+  ]
+}
